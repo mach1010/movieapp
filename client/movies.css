@@ -1,0 +1,11 @@
+#outer {
+	width:300px;
+	margin:auto;
+	text-align:center;
+}
+
+#addform {
+	width:100px;
+	padding: 20px;
+	margin-left:75px;
+}
